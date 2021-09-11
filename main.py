@@ -7,4 +7,4 @@ try:
     if r.status_code == 200:
         print((r.text))
 except Exception as e:
-    print('ada error', e)
+    print('ada errorr', e)
